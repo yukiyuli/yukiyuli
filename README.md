@@ -1,12 +1,8 @@
 - 👑 Hi, my name is Yuki
-
 - 👩‍💻 I'm now a student @ Vanier college, learning software development.
-
 - 💻 I'm currently learning ES6, VUE.
-
-- 🏃‍♀️ I am a running-lover. I like hiking and camping as well.
-
-- 🐶 I am also the owner of Akita, koko.
+- 🏃‍♀️ I'm a running-lover. I like hiking and camping as well.
+- 🐶 I'm also the owner of Akita, koko.
 
 <!--
 **yukiyuli/yukiyuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
