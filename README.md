@@ -1,6 +1,6 @@
 - 👑 Hi, my name is Yuki
 - 👩‍💻 I'm now a student @ Vanier college, learning software development.
-- 💻 I'm currently learning ES6, VUE.
+- 💻 I'm currently learning React, Andorid studio.
 - 🏃‍♀️ I'm a running-lover. I like hiking and camping as well.
 - 🐶 I'm also the owner of Akita, koko.
 
