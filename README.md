@@ -1,6 +1,6 @@
 - 👑 Hi, my name is Yuki
 - 👩‍💻 I'm now a student @ Vanier college, learning software development.
-- 💻 I have knowledge of HTML, CSS, JS，Java, SpringBoot. I'm currently learning React, Andorid studio and Flask.
+- 💻 I have knowledge of HTML, CSS, JS, Java, SpringBoot. I'm currently learning React, Andorid studio and Flask.
 - 🏃‍♀️ I'm a running-lover. I like hiking and camping as well.
 - 🐶 I'm also the owner of Akita, koko.
 
