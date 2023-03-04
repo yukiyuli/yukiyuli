@@ -6,10 +6,13 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ### My Github Actions
-[![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=yukiyuli&show_icons=true&hide_border=true&hide_title=true&icon_color=f58220)](https://github.com/yukiyuli/)
+[![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=yukiyuli&show_icons=true&hide_border=true&hide_title=true&icon_color=f58220)](https://github.com/yukiyuli/)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyuli&layout=compact)](https://github.com/yukiyuli/github-readme-stats)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyuli&layout=compact)](https://github.com/yukiyuli/github-readme-stats)
+### More About me
+- 👑 Hi, my name is Yuki.
+- 💻 I'm currently learning more about React.
+- 🏃‍♀️ I'm a running-lover. I like hiking and camping as well.
+- 🐶 I'm also the owner of Akita, koko.
 
 
 <!--
