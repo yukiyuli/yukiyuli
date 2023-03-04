@@ -9,9 +9,11 @@
 - 👑 Hi, my name is Yuki.
 - 💻 I'm currently learning more about React.
 - 🏃‍♀️ I'm a running-lover. I like hiking and camping as well.
-- 🐶 I'm also the owner of Akita, koko.
+- 🐶 I'm also the owner of Akita, koko.  
 
-![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=yukiyuli&show_icons=true&hide=stars&icon_color=f58220)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyuli&layout=compact)](https://github.com/yukiyuli/github-readme-stats)  
+</br>
+
+![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=yukiyuli&show_icons=true&hide=stars&icon_color=f58220)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiyuli&layout=compact)](https://github.com/yukiyuli/github-readme-stats)  
 
 
 
